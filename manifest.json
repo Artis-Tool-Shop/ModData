@@ -1,1 +1,15 @@
-{"manifest_version": 1, "files": []}
+{
+  "manifest_version": 1,
+  "files": [
+    {
+      "path": "mods/immersivetaming.json",
+      "mod_name": "ImmersiveTaming",
+      "version": "2.0.0",
+      "updated_at": 1785880792,
+      "counts": {
+        "engrams": 1,
+        "items": 114
+      }
+    }
+  ]
+}
