@@ -10,6 +10,17 @@
         "engrams": 1,
         "items": 114
       }
+    },
+    {
+      "path": "mods/shinyascended.json",
+      "mod_name": "ShinyAscended",
+      "version": "1.0.0",
+      "updated_at": 1786312008,
+      "counts": {
+        "buffs": 65,
+        "engrams": 5,
+        "items": 11
+      }
     }
   ]
 }
