@@ -13,9 +13,9 @@
     },
     {
       "path": "mods/shinyascended.json",
-      "mod_name": "Shiny! Dinos Ascended",
-      "version": "1.0.1",
-      "updated_at": 1786314102,
+      "mod_name": "ShinyAscended",
+      "version": "1.0.2",
+      "updated_at": 1786314211,
       "counts": {
         "buffs": 65,
         "engrams": 5,
