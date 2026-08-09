@@ -1,13 +1,13 @@
 {
-  "version": "1.0.1",
-  "last_updated": 1786314102,
-  "mod_name": "Shiny! Dinos Ascended",
+  "version": "1.0.2",
+  "last_updated": 1786314211,
+  "mod_name": "ShinyAscended",
   "mod_link": "https://www.curseforge.com/ark-survival-ascended/mods/shiny-ascended",
   "creatures": {},
   "items": {
     "9cf4d0e0185640cc8976393db25d9c41": {
       "type_name": "Tools",
-      "name": "Raw Shiny Essence1",
+      "name": "Raw Shiny Essence",
       "class_name": "PrimalItemResource_RawShinyEssence_C",
       "blueprint": "Blueprint'/ShinyAscended/Items/Essence/PrimalItemResource_RawShinyEssence.PrimalItemResource_RawShinyEssence'"
     },
