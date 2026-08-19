@@ -1,0 +1,730 @@
+{
+  "version": "1.0.0",
+  "last_updated": 1787147500,
+  "mod_name": "SDinoVariants",
+  "mod_link": "https://www.curseforge.com/ark-survival-ascended/mods/s-dino-variants",
+  "creatures": {
+    "cb5634652a7148e1b5c9ed29129e98b6": {
+      "type_name": "creature",
+      "name": "S-Acrocanthosaurus",
+      "entity_id": "S-Acrocanthosaurus_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Acro/S-Acrocanthosaurus_Character_BP.S-Acrocanthosaurus_Character_BP'"
+    },
+    "03c82d8996554a0ebf81bb9ed082057d": {
+      "type_name": "creature",
+      "name": "S-Allo",
+      "entity_id": "S-Allo_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP'"
+    },
+    "652d28ddea2440ee9c481f5a8261ca5e": {
+      "type_name": "creature",
+      "name": "S-Andrewsarchus",
+      "entity_id": "S-Andrewsarchus_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP'"
+    },
+    "009f7e9b3cf541b08b9aac26d0393a6f": {
+      "type_name": "creature",
+      "name": "S-Ankylo",
+      "entity_id": "S-Ankylo_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP'"
+    },
+    "58e70fffbdce4a97aeaabee92fc17045": {
+      "type_name": "creature",
+      "name": "S-Argent",
+      "entity_id": "S-Argent_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP'"
+    },
+    "7ffd387db01e44aea928fb0d1254da70": {
+      "type_name": "creature",
+      "name": "S-Basilosaurus",
+      "entity_id": "S-Basilosaurus_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP'"
+    },
+    "53fb725cb4154a329d5a00bbdb6b9b11": {
+      "type_name": "creature",
+      "name": "S-Beaver",
+      "entity_id": "S-Beaver_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP'"
+    },
+    "e30886305ed84549978c9c976b781af2": {
+      "type_name": "creature",
+      "name": "S-Bee Queen",
+      "entity_id": "S-Bee_Queen_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-BeeQueen/S-Bee_Queen_Character_BP.S-Bee_Queen_Character_BP'"
+    },
+    "7301cef2c433485d9518c8652539aac5": {
+      "type_name": "creature",
+      "name": "S-Carcha",
+      "entity_id": "S-Carcha_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP'"
+    },
+    "7ce874403dcc41d58f40676875b237d6": {
+      "type_name": "creature",
+      "name": "S-Cat",
+      "entity_id": "S-Cat_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP'"
+    },
+    "42047a2217ae4fdf941ce34cb0115418": {
+      "type_name": "creature",
+      "name": "S-Ceratosaurus Character BP ASA",
+      "entity_id": "S-Ceratosaurus_Character_BP_ASA_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA'"
+    },
+    "191ae59fea9743819702e0cb3d6ee61e": {
+      "type_name": "creature",
+      "name": "S-Cherufe",
+      "entity_id": "S-Cherufe_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Cherufe/S-Cherufe_Character_BP.S-Cherufe_Character_BP'"
+    },
+    "bf3d14c0caa04845b2e32c4e77533ed0": {
+      "type_name": "creature",
+      "name": "S-Daeodon",
+      "entity_id": "S-Daeodon_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP'"
+    },
+    "e331ffb5b83444f985dfcd1cefba4958": {
+      "type_name": "creature",
+      "name": "S-Deinonychus",
+      "entity_id": "S-Deinonychus_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP'"
+    },
+    "c469fff6b8e447d585f606c864b2cacd": {
+      "type_name": "creature",
+      "name": "S-Deinosuchus ASA",
+      "entity_id": "S-DeinosuchusASA_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP'"
+    },
+    "f58577e947ab49fa963ae0b0e372a20a": {
+      "type_name": "creature",
+      "name": "S-Desmodus",
+      "entity_id": "S-Desmodus_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP'"
+    },
+    "627b4878aa3c4454aaf0e450a79b5411": {
+      "type_name": "creature",
+      "name": "S-Direbear",
+      "entity_id": "S-Direbear_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP'"
+    },
+    "8e94f78068d64de688068a4bb2c08527": {
+      "type_name": "creature",
+      "name": "S-Direwolf",
+      "entity_id": "S-Direwolf_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP'"
+    },
+    "b0f4b90965cc4450b410d58346e6a775": {
+      "type_name": "creature",
+      "name": "S-Doed",
+      "entity_id": "S-Doed_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP'"
+    },
+    "47f4f8a0b08a403ca7de90890749ad8d": {
+      "type_name": "creature",
+      "name": "S-Dunkle",
+      "entity_id": "S-Dunkle_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP'"
+    },
+    "e1c9be0a51e74ddea69e4bbd182fe723": {
+      "type_name": "creature",
+      "name": "S-Equus Character BP Unicorn",
+      "entity_id": "S-Equus_Character_BP_Unicorn_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn'"
+    },
+    "3ceaf110f35f492a897bd3a5a4047351": {
+      "type_name": "creature",
+      "name": "S-Fasola",
+      "entity_id": "S-Fasola_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP'"
+    },
+    "c68b033762ae4e2a91b436e2ee6e22bd": {
+      "type_name": "creature",
+      "name": "S-Fenrir",
+      "entity_id": "S-Fenrir_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP'"
+    },
+    "e818e10a7aef47af8d98fd332fe527a5": {
+      "type_name": "creature",
+      "name": "S-Griffin",
+      "entity_id": "S-Griffin_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP'"
+    },
+    "aee67491d6de496db1056f547e42de52": {
+      "type_name": "creature",
+      "name": "S-Helicoprion",
+      "entity_id": "S-Helicoprion_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Helicoprion/S-Helicoprion_Character_BP.S-Helicoprion_Character_BP'"
+    },
+    "1a1932cf382845298183ed1461b8cd35": {
+      "type_name": "creature",
+      "name": "S-Ice Jumper",
+      "entity_id": "S-IceJumper_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Managarmr/S-IceJumper_Character_BP.S-IceJumper_Character_BP'"
+    },
+    "c41e6c0c4063457fa3e0fdd701d57603": {
+      "type_name": "creature",
+      "name": "S-Lantern Goat",
+      "entity_id": "S-LanternGoat_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP'"
+    },
+    "6c50051c3c5f481ba3e6f14f5564c8e3": {
+      "type_name": "creature",
+      "name": "S-Maelizard",
+      "entity_id": "S-Maelizard_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP'"
+    },
+    "908f1034829041ef8c6d86825368fe7a": {
+      "type_name": "creature",
+      "name": "S-Mantis",
+      "entity_id": "S-Mantis_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP'"
+    },
+    "10824fd84fe34d6ba0e860bf762e4b70": {
+      "type_name": "creature",
+      "name": "S-Megalodon",
+      "entity_id": "S-Megalodon_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Megalodon/S-Megalodon_Character_BP.S-Megalodon_Character_BP'"
+    },
+    "1b596ae40fd344e7b1e6dc7e3874c628": {
+      "type_name": "creature",
+      "name": "S-Megalosaurus",
+      "entity_id": "S-Megalosaurus_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP'"
+    },
+    "04b56c1f3fd74b6db2f4b5e2ae37efc7": {
+      "type_name": "creature",
+      "name": "S-Megaraptor",
+      "entity_id": "S-Megaraptor_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP'"
+    },
+    "cf43e955bbee44abb2ba8e1071951be8": {
+      "type_name": "creature",
+      "name": "S-Milk Glider",
+      "entity_id": "S-MilkGlider_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP'"
+    },
+    "a7d6f332d2fc4911a5410e38f2413aee": {
+      "type_name": "creature",
+      "name": "S-Mosa",
+      "entity_id": "S-Mosa_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP'"
+    },
+    "a4b7826762674f6a9c39fa09bb5ea069": {
+      "type_name": "creature",
+      "name": "S-Otter",
+      "entity_id": "S-Otter_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP'"
+    },
+    "b736fd76b4ef441c8b17ee594654e467": {
+      "type_name": "creature",
+      "name": "S-Owl",
+      "entity_id": "S-Owl_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP'"
+    },
+    "e3b6b27d8e2344c49b02b93dd0c68739": {
+      "type_name": "creature",
+      "name": "S-Plesiosaur",
+      "entity_id": "S-Plesiosaur_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP'"
+    },
+    "a5b8e1f011c9451ca3b189a83c255fae": {
+      "type_name": "creature",
+      "name": "S-Rex",
+      "entity_id": "S-Rex_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP'"
+    },
+    "04f12df19ec543bbb88afde1cb379990": {
+      "type_name": "creature",
+      "name": "S-Rhynio",
+      "entity_id": "S-Rhynio_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP'"
+    },
+    "8d9c3184752e4efe9c4380002748793d": {
+      "type_name": "creature",
+      "name": "S-Rock Drake",
+      "entity_id": "S-RockDrake_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP'"
+    },
+    "58567f224b654a048f1ecc2f3f708074": {
+      "type_name": "creature",
+      "name": "S-Snow Monster",
+      "entity_id": "S-SnowMonster_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Ossidon/S-SnowMonster_Character_BP.S-SnowMonster_Character_BP'"
+    },
+    "10ad8de1400b4da0a6933a7247ccd93e": {
+      "type_name": "creature",
+      "name": "S-Spider S",
+      "entity_id": "S-SpiderS_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Araneo/S-SpiderS_Character_BP.S-SpiderS_Character_BP'"
+    },
+    "53a4c604b5ae42169182ef086b68fd66": {
+      "type_name": "creature",
+      "name": "S-Spindles",
+      "entity_id": "S-Spindles_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP'"
+    },
+    "fa0f2f61aa64400584960305cf819b14": {
+      "type_name": "creature",
+      "name": "S-Spino",
+      "entity_id": "S-Spino_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP'"
+    },
+    "f5ac2b2611804bc2a2b94ba476978fb9": {
+      "type_name": "creature",
+      "name": "S-Therizino",
+      "entity_id": "S-Therizino_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP'"
+    },
+    "801cecc9037048f58901302c38e2ee16": {
+      "type_name": "creature",
+      "name": "S-Thylacoleo",
+      "entity_id": "S-Thylacoleo_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP'"
+    },
+    "5be7f462f35c4e9fbd372218d99fe81c": {
+      "type_name": "creature",
+      "name": "S-Trike",
+      "entity_id": "S-Trike_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP'"
+    },
+    "56ee0fc5f00642a4b671701f8e6372a6": {
+      "type_name": "creature",
+      "name": "S-Wyvern Character BP Fire",
+      "entity_id": "S-Wyvern_Character_BP_Fire_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire'"
+    },
+    "d6986d43edf440379aa369419449d6cd": {
+      "type_name": "creature",
+      "name": "S-Wyvern Character BP Ice",
+      "entity_id": "S-Wyvern_Character_BP_Ice_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice'"
+    },
+    "e83e5e70130f4a80a8e3df5fce085f40": {
+      "type_name": "creature",
+      "name": "S-Wyvern Character BP Lightning",
+      "entity_id": "S-Wyvern_Character_BP_Lightning_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning'"
+    },
+    "aacba56e64ab4d2ea1840ca7bf1b0fee": {
+      "type_name": "creature",
+      "name": "S-Wyvern Character BP Poison",
+      "entity_id": "S-Wyvern_Character_BP_Poison_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison'"
+    },
+    "b9e4c9828ccd46d6b65f3dd45e2cced6": {
+      "type_name": "creature",
+      "name": "S-Xenomorph Character BP Female",
+      "entity_id": "S-Xenomorph_Character_BP_Female_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female'"
+    },
+    "293c76a212c7459e82765ea4d107a8b8": {
+      "type_name": "creature",
+      "name": "S-Xenomorph Character BP Male Tamed",
+      "entity_id": "S-Xenomorph_Character_BP_Male_Tamed_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed'"
+    },
+    "78b37d3efc094bb8871e8fd827fa41ad": {
+      "type_name": "creature",
+      "name": "S-Yutyrannus",
+      "entity_id": "S-Yutyrannus_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Yutyrannus/S-Yutyrannus_Character_BP.S-Yutyrannus_Character_BP'"
+    }
+  },
+  "items": {
+    "c6db2d8061bc415a84a33df56048552f": {
+      "type_name": "Saddles",
+      "name": "Dwarven Dire Bear Saddle",
+      "class_name": "PrimalItemArmor_DwarvenDireBearSaddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Direbear/PrimalItemArmor_DwarvenDireBearSaddle.PrimalItemArmor_DwarvenDireBearSaddle'"
+    },
+    "0940f11b17e24c049204dc09d056c10e": {
+      "type_name": "Eggs",
+      "name": "Egg Milk Glider Large",
+      "class_name": "PrimalItemConsumable_Egg_MilkGlider_Large_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_MilkGlider_Large.PrimalItemConsumable_Egg_MilkGlider_Large'"
+    },
+    "9b5ccd0b5268468a99ea44ee5156bfb5": {
+      "type_name": "Eggs",
+      "name": "Egg Milk Glider Medium",
+      "class_name": "PrimalItemConsumable_Egg_MilkGlider_Medium_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_MilkGlider_Medium.PrimalItemConsumable_Egg_MilkGlider_Medium'"
+    },
+    "d97b8ebd360e42b3adf4a037a8eccff5": {
+      "type_name": "Eggs",
+      "name": "Egg Milk Glider Small",
+      "class_name": "PrimalItemConsumable_Egg_MilkGlider_Small_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_MilkGlider_Small.PrimalItemConsumable_Egg_MilkGlider_Small'"
+    },
+    "bf55a974841f41b3b31a18a512c049cd": {
+      "type_name": "Eggs",
+      "name": "Egg Milk Glider Special",
+      "class_name": "PrimalItemConsumable_Egg_MilkGlider_Special_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_MilkGlider_Special.PrimalItemConsumable_Egg_MilkGlider_Special'"
+    },
+    "0457c622454b44baa2345d4a77ecebfd": {
+      "type_name": "Eggs",
+      "name": "Egg Milk Glider XLarge",
+      "class_name": "PrimalItemConsumable_Egg_MilkGlider_XLarge_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_MilkGlider_XLarge.PrimalItemConsumable_Egg_MilkGlider_XLarge'"
+    },
+    "6858201a3c29413a9c6f467a1ac01fb3": {
+      "type_name": "Eggs",
+      "name": "Egg Milk Glider XSmall",
+      "class_name": "PrimalItemConsumable_Egg_MilkGlider_XSmall_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_MilkGlider_XSmall.PrimalItemConsumable_Egg_MilkGlider_XSmall'"
+    },
+    "bd1be3f8f9c54606a0a658b0d1be1180": {
+      "type_name": "Eggs",
+      "name": "Egg S-Acro Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Acro_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Acro/PrimalItemConsumable_Egg_S-Acro_Fertilized.PrimalItemConsumable_Egg_S-Acro_Fertilized'"
+    },
+    "33845458a6ca4097b93852ca0b742348": {
+      "type_name": "Eggs",
+      "name": "Egg S-Allo Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Allo_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Allosaurus/PrimalItemConsumable_Egg_S-Allo_Fertilized.PrimalItemConsumable_Egg_S-Allo_Fertilized'"
+    },
+    "ca837fd384964e268b5d564115c6ebfe": {
+      "type_name": "Eggs",
+      "name": "Egg S-Ankylo Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Ankylo_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Ankylosaurus/PrimalItemConsumable_Egg_S-Ankylo_Fertilized.PrimalItemConsumable_Egg_S-Ankylo_Fertilized'"
+    },
+    "e427163f97414846a1943f61f6182896": {
+      "type_name": "Eggs",
+      "name": "Egg S-Argent Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Argent_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Argentavis/PrimalItemConsumable_Egg_S-Argent_Fertilized.PrimalItemConsumable_Egg_S-Argent_Fertilized'"
+    },
+    "14fd80752b7643348256e50ef8434224": {
+      "type_name": "Eggs",
+      "name": "Egg S-Carcha Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Carcha_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Carcha/PrimalItemConsumable_Egg_S-Carcha_Fertilized.PrimalItemConsumable_Egg_S-Carcha_Fertilized'"
+    },
+    "d37f63f955d54ac4b3fa028ac4ef258f": {
+      "type_name": "Eggs",
+      "name": "Egg S-Cerato Fertilized ASA",
+      "class_name": "PrimalItemConsumable_Egg_S-Cerato_Fertilized_ASA_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Cerato/PrimalItemConsumable_Egg_S-Cerato_Fertilized_ASA.PrimalItemConsumable_Egg_S-Cerato_Fertilized_ASA'"
+    },
+    "070d63d7b30045998a457c6cb4477940": {
+      "type_name": "Eggs",
+      "name": "Egg S-Cherufe Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Cherufe_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Cherufe/PrimalItemConsumable_Egg_S-Cherufe_Fertilized.PrimalItemConsumable_Egg_S-Cherufe_Fertilized'"
+    },
+    "cdb7b4ffebfa4a53bec9528b167162ed": {
+      "type_name": "Eggs",
+      "name": "Egg S-Deino Fertilized ASA",
+      "class_name": "PrimalItemConsumable_Egg_S-Deino_Fertilized_ASA_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Deinosuchus/PrimalItemConsumable_Egg_S-Deino_Fertilized_ASA.PrimalItemConsumable_Egg_S-Deino_Fertilized_ASA'"
+    },
+    "325e7e4ae7a24afca7cf3c4aeeffa58b": {
+      "type_name": "Eggs",
+      "name": "Egg S-Deinonychus Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Deinonychus_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Deinonychus/PrimalItemConsumable_Egg_S-Deinonychus_Fertilized.PrimalItemConsumable_Egg_S-Deinonychus_Fertilized'"
+    },
+    "0738387e6d46447a81a00eba8fb9ba9b": {
+      "type_name": "Eggs",
+      "name": "Egg S-Fasola Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Fasola_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Fasolasuchus/PrimalItemConsumable_Egg_S-Fasola_Fertilized.PrimalItemConsumable_Egg_S-Fasola_Fertilized'"
+    },
+    "7831643659a74010a99b95ce589f83a4": {
+      "type_name": "Eggs",
+      "name": "Egg S-Griffin Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Griffin_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Griffin/PrimalItemConsumable_Egg_S-Griffin_Fertilized.PrimalItemConsumable_Egg_S-Griffin_Fertilized'"
+    },
+    "da87d58215c34fe7908c6b6a02a8096c": {
+      "type_name": "Eggs",
+      "name": "Egg S-Maelizard Large Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Maelizard_Large_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maeguana/PrimalItemConsumable_Egg_S-Maelizard_Large_Fertilized.PrimalItemConsumable_Egg_S-Maelizard_Large_Fertilized'"
+    },
+    "9f559aad0059423281c2b370d3b52c48": {
+      "type_name": "Eggs",
+      "name": "Egg S-Maelizard Medium Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Maelizard_Medium_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maeguana/PrimalItemConsumable_Egg_S-Maelizard_Medium_Fertilized.PrimalItemConsumable_Egg_S-Maelizard_Medium_Fertilized'"
+    },
+    "5c832ecd427c49a3948b8341840c5c28": {
+      "type_name": "Eggs",
+      "name": "Egg S-Maelizard Small Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Maelizard_Small_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maeguana/PrimalItemConsumable_Egg_S-Maelizard_Small_Fertilized.PrimalItemConsumable_Egg_S-Maelizard_Small_Fertilized'"
+    },
+    "c52896ad40924fd4a628d88a43b8d30a": {
+      "type_name": "Eggs",
+      "name": "Egg S-Maelizard Special Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Maelizard_Special_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maeguana/PrimalItemConsumable_Egg_S-Maelizard_Special_Fertilized.PrimalItemConsumable_Egg_S-Maelizard_Special_Fertilized'"
+    },
+    "a8b8c90276c44100a183d526c8b0db51": {
+      "type_name": "Eggs",
+      "name": "Egg S-Maelizard XLarge Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Maelizard_XLarge_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maeguana/PrimalItemConsumable_Egg_S-Maelizard_XLarge_Fertilized.PrimalItemConsumable_Egg_S-Maelizard_XLarge_Fertilized'"
+    },
+    "0241a26f9d2448488b3dfdb7feb2738c": {
+      "type_name": "Eggs",
+      "name": "Egg S-Maelizard XSmall Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Maelizard_XSmall_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maeguana/PrimalItemConsumable_Egg_S-Maelizard_XSmall_Fertilized.PrimalItemConsumable_Egg_S-Maelizard_XSmall_Fertilized'"
+    },
+    "b7729e4387c24fc0a2ecc9db9632cdfd": {
+      "type_name": "Eggs",
+      "name": "Egg S-Mantis Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Mantis_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Mantis/PrimalItemConsumable_Egg_S-Mantis_Fertilized.PrimalItemConsumable_Egg_S-Mantis_Fertilized'"
+    },
+    "99938ceb004241f6b708e55f94b3db92": {
+      "type_name": "Eggs",
+      "name": "Egg S-Megalosaurus Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Megalosaurus_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Megalosaurus/PrimalItemConsumable_Egg_S-Megalosaurus_Fertilized.PrimalItemConsumable_Egg_S-Megalosaurus_Fertilized'"
+    },
+    "580d95cb004240fe97918900f2015648": {
+      "type_name": "Eggs",
+      "name": "Egg S-Milk Glider Large Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-MilkGlider_Large_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_S-MilkGlider_Large_Fertilized.PrimalItemConsumable_Egg_S-MilkGlider_Large_Fertilized'"
+    },
+    "fd13073689bd4f119243d727a5119303": {
+      "type_name": "Eggs",
+      "name": "Egg S-Milk Glider Medium Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-MilkGlider_Medium_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_S-MilkGlider_Medium_Fertilized.PrimalItemConsumable_Egg_S-MilkGlider_Medium_Fertilized'"
+    },
+    "ae2cbc7bed51466e99a1e9d038876454": {
+      "type_name": "Eggs",
+      "name": "Egg S-Milk Glider Small Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-MilkGlider_Small_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_S-MilkGlider_Small_Fertilized.PrimalItemConsumable_Egg_S-MilkGlider_Small_Fertilized'"
+    },
+    "5f063ded5c98496e97aacd7a8276a8a3": {
+      "type_name": "Eggs",
+      "name": "Egg S-Milk Glider Special Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-MilkGlider_Special_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_S-MilkGlider_Special_Fertilized.PrimalItemConsumable_Egg_S-MilkGlider_Special_Fertilized'"
+    },
+    "9653c06a5e8743fca840081268be5cdd": {
+      "type_name": "Eggs",
+      "name": "Egg S-Milk Glider XLarge Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-MilkGlider_XLarge_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_S-MilkGlider_XLarge_Fertilized.PrimalItemConsumable_Egg_S-MilkGlider_XLarge_Fertilized'"
+    },
+    "a09688efc1354a2db3ab3b1a1366ed19": {
+      "type_name": "Eggs",
+      "name": "Egg S-Milk Glider XSmall Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-MilkGlider_XSmall_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemConsumable_Egg_S-MilkGlider_XSmall_Fertilized.PrimalItemConsumable_Egg_S-MilkGlider_XSmall_Fertilized'"
+    },
+    "e841f21cf105463db1f8e84be05c74fa": {
+      "type_name": "Eggs",
+      "name": "Egg S-Owl Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Owl_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-SnowOwl/PrimalItemConsumable_Egg_S-Owl_Fertilized.PrimalItemConsumable_Egg_S-Owl_Fertilized'"
+    },
+    "e78a522818594f81a680d57d04b4c281": {
+      "type_name": "Eggs",
+      "name": "Egg S-Rex Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Rex_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Rex/PrimalItemConsumable_Egg_S-Rex_Fertilized.PrimalItemConsumable_Egg_S-Rex_Fertilized'"
+    },
+    "a422518bd096407088626ec11886ba39": {
+      "type_name": "Eggs",
+      "name": "Egg S-Rock Drake Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-RockDrake_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Rockdrake/PrimalItemConsumable_Egg_S-RockDrake_Fertilized.PrimalItemConsumable_Egg_S-RockDrake_Fertilized'"
+    },
+    "289d255ead6c429b99a6405ef93b24b5": {
+      "type_name": "Eggs",
+      "name": "Egg S-Spider Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Spider_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Araneo/PrimalItemConsumable_Egg_S-Spider_Fertilized.PrimalItemConsumable_Egg_S-Spider_Fertilized'"
+    },
+    "b148f36654ad463f89cd2cc945f0233d": {
+      "type_name": "Eggs",
+      "name": "Egg S-Spindles Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Spindles_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Velonasaur/PrimalItemConsumable_Egg_S-Spindles_Fertilized.PrimalItemConsumable_Egg_S-Spindles_Fertilized'"
+    },
+    "b91420e619c54f00b6b15e49b04cf6ce": {
+      "type_name": "Eggs",
+      "name": "Egg S-Spino Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Spino_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Spinosaurus/PrimalItemConsumable_Egg_S-Spino_Fertilized.PrimalItemConsumable_Egg_S-Spino_Fertilized'"
+    },
+    "5632e444ca034a88b2dddbfe75fca391": {
+      "type_name": "Eggs",
+      "name": "Egg S-Therizino Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Therizino_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Therizinosaur/PrimalItemConsumable_Egg_S-Therizino_Fertilized.PrimalItemConsumable_Egg_S-Therizino_Fertilized'"
+    },
+    "e5d33ea03db24207915ec51e8e76f205": {
+      "type_name": "Eggs",
+      "name": "Egg S-Trike Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Trike_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Trike/PrimalItemConsumable_Egg_S-Trike_Fertilized.PrimalItemConsumable_Egg_S-Trike_Fertilized'"
+    },
+    "ce294af405354f55b2012da06fc86e4e": {
+      "type_name": "Eggs",
+      "name": "Egg S-Val Megaraptor Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-ValMegaraptor_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Megaraptor/PrimalItemConsumable_Egg_S-ValMegaraptor_Fertilized.PrimalItemConsumable_Egg_S-ValMegaraptor_Fertilized'"
+    },
+    "270bbb64cd6142659cc27482decea69e": {
+      "type_name": "Eggs",
+      "name": "Egg S-Wyvern Fertilized Fire",
+      "class_name": "PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Fire_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Wyvern/PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Fire.PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Fire'"
+    },
+    "f52d1aabe2e848a4b1e50d52df52a7bf": {
+      "type_name": "Eggs",
+      "name": "Egg S-Wyvern Fertilized Lightning",
+      "class_name": "PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Lightning_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Wyvern/PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Lightning.PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Lightning'"
+    },
+    "c292f9ec22934c14a9d18205d8342e27": {
+      "type_name": "Eggs",
+      "name": "Egg S-Wyvern Fertilized Poison",
+      "class_name": "PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Poison_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Wyvern/PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Poison.PrimalItemConsumable_Egg_S-Wyvern_Fertilized_Poison'"
+    },
+    "1e38ca362a644099b44c20a2c67df37d": {
+      "type_name": "Eggs",
+      "name": "Egg S-Yuty Fertilized",
+      "class_name": "PrimalItemConsumable_Egg_S-Yuty_Fertilized_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Yutyrannus/PrimalItemConsumable_Egg_S-Yuty_Fertilized.PrimalItemConsumable_Egg_S-Yuty_Fertilized'"
+    },
+    "e143054d64df4f44a67da4805a1d4be6": {
+      "type_name": "Eggs",
+      "name": "Embryo S-Basilosaurus",
+      "class_name": "PrimalItemConsumable_Embryo_S-Basilosaurus_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Basilosaurus/PrimalItemConsumable_Embryo_S-Basilosaurus.PrimalItemConsumable_Embryo_S-Basilosaurus'"
+    },
+    "aeda5980ee1d41a1b62830dddb513545": {
+      "type_name": "Eggs",
+      "name": "Embryo S-Daeodon",
+      "class_name": "PrimalItemConsumable_Embryo_S-Daeodon_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Daeodon/PrimalItemConsumable_Embryo_S-Daeodon.PrimalItemConsumable_Embryo_S-Daeodon'"
+    },
+    "2e17d70033a44356b5e1d7098c24c689": {
+      "type_name": "Saddles",
+      "name": "Griffin Saddle",
+      "class_name": "PrimalItemArmor_GriffinSaddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Griffin/PrimalItemArmor_GriffinSaddle.PrimalItemArmor_GriffinSaddle'"
+    },
+    "d0e9ef6e711341a4a7651349ee26d081": {
+      "type_name": "Saddles",
+      "name": "S-Andrewsarchus Saddle S",
+      "class_name": "PrimalItemArmor_S-AndrewsarchusSaddle_S_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle_S.PrimalItemArmor_S-AndrewsarchusSaddle_S'"
+    },
+    "b7f4784ad9454cd3a5e9a131b7c4b300": {
+      "type_name": "Saddles",
+      "name": "S-Deinonychus Saddle",
+      "class_name": "PrimalItemArmor_S-DeinonychusSaddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Deinonychus/PrimalItemArmor_S-DeinonychusSaddle.PrimalItemArmor_S-DeinonychusSaddle'"
+    },
+    "8ee4301f729e41bf9afa7f75dfcc6445": {
+      "type_name": "Saddles",
+      "name": "S-Desmodus Saddle",
+      "class_name": "PrimalItemArmor_S-DesmodusSaddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Desmodus/PrimalItemArmor_S-DesmodusSaddle.PrimalItemArmor_S-DesmodusSaddle'"
+    },
+    "1c38d7aa5ff34dbcb279081340b3a9f5": {
+      "type_name": "Saddles",
+      "name": "S-Direwolf Saddle",
+      "class_name": "PrimalItemArmor_S-DirewolfSaddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Direwolf/PrimalItemArmor_S-DirewolfSaddle.PrimalItemArmor_S-DirewolfSaddle'"
+    },
+    "22f84a700ac440d6b9dc39a2874d1ba2": {
+      "type_name": "Saddles",
+      "name": "S-Milk Glider Saddle",
+      "class_name": "PrimalItemArmor_S-MilkGliderSaddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/PrimalItemArmor_S-MilkGliderSaddle.PrimalItemArmor_S-MilkGliderSaddle'"
+    },
+    "811e118b88044bee8be39f1dd1c771a8": {
+      "type_name": "Consumables",
+      "name": "S-Ossidon Potion",
+      "class_name": "PrimalItemConsumable_S-OssidonPotion_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Ossidon/PrimalItemConsumable_S-OssidonPotion.PrimalItemConsumable_S-OssidonPotion'"
+    },
+    "fcf780d03cc84230867627cfbcdea94f": {
+      "type_name": "Saddles",
+      "name": "Saddle S-Fenrir",
+      "class_name": "PrimalItemArmor_Saddle_S-Fenrir_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Fenrir/PrimalItemArmor_Saddle_S-Fenrir.PrimalItemArmor_Saddle_S-Fenrir'"
+    },
+    "6218690218f2450886939e50e63495fd": {
+      "type_name": "Consumables",
+      "name": "Sanguine Elixir",
+      "class_name": "PrimalItem_SanguineElixir_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Desmodus/PrimalItem_SanguineElixir.PrimalItem_SanguineElixir'"
+    },
+    "ee9b8aed836743a3944310041c286a29": {
+      "type_name": "Eggs",
+      "name": "Underwater Egg S-Helicoprion",
+      "class_name": "PrimalItemConsumable_UnderwaterEgg_S-Helicoprion_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Helicoprion/PrimalItemConsumable_UnderwaterEgg_S-Helicoprion.PrimalItemConsumable_UnderwaterEgg_S-Helicoprion'"
+    }
+  },
+  "engrams": {
+    "9e2a973fe1c940e6b8115a4c83edb1d6": {
+      "type_name": "engram",
+      "name": "S-Fenrir Saddle",
+      "class_name": "EngramEntry_S-Fenrir_Saddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Fenrir/EngramEntry_S-Fenrir_Saddle.EngramEntry_S-Fenrir_Saddle'"
+    },
+    "46ceaaae997247e19f1d56c591006988": {
+      "type_name": "engram",
+      "name": "S-Milkglider Saddle",
+      "class_name": "EngramEntry_S-Milkglider_Saddle_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Maewing/EngramEntry_S-Milkglider_Saddle.EngramEntry_S-Milkglider_Saddle'"
+    },
+    "cd3f57c6b23741cab8b3893b65e966a7": {
+      "type_name": "engram",
+      "name": "S-Ossidon Food",
+      "class_name": "EngramEntry_S-OssidonFood_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Ossidon/EngramEntry_S-OssidonFood.EngramEntry_S-OssidonFood'"
+    },
+    "12e92f02022f4bcdb6488ccbd2a29f16": {
+      "type_name": "engram",
+      "name": "Saddle Griffin",
+      "class_name": "EngramEntry_Saddle_Griffin_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Griffin/EngramEntry_Saddle_Griffin.EngramEntry_Saddle_Griffin'"
+    },
+    "c27f93ed06ea4d4da1e02e06a7eb9c11": {
+      "type_name": "engram",
+      "name": "Saddle S-Andrewsarchus",
+      "class_name": "EngramEntry_Saddle_S-Andrewsarchus_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Andrewsarchus/EngramEntry_Saddle_S-Andrewsarchus.EngramEntry_Saddle_S-Andrewsarchus'"
+    },
+    "2ff0781119754790a5b7323086651517": {
+      "type_name": "engram",
+      "name": "Saddle S-Deinonychus",
+      "class_name": "EngramEntry_Saddle_S-Deinonychus_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Deinonychus/EngramEntry_Saddle_S-Deinonychus.EngramEntry_Saddle_S-Deinonychus'"
+    },
+    "7cff2fd969304b44a2df1eb0b951cae4": {
+      "type_name": "engram",
+      "name": "Saddle S-Desmodus",
+      "class_name": "EngramEntry_Saddle_S-Desmodus_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Desmodus/EngramEntry_Saddle_S-Desmodus.EngramEntry_Saddle_S-Desmodus'"
+    },
+    "034aed90b4cb4025ba728d564f30bc3e": {
+      "type_name": "engram",
+      "name": "Saddle S-Direwolf",
+      "class_name": "EngramEntry_Saddle_S-Direwolf_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Direwolf/EngramEntry_Saddle_S-Direwolf.EngramEntry_Saddle_S-Direwolf'"
+    }
+  },
+  "beacons": {},
+  "icons": {},
+  "colors": {},
+  "buffs": {}
+}
