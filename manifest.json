@@ -12,6 +12,17 @@
       }
     },
     {
+      "path": "mods/sdinovariants.json",
+      "mod_name": "SDinoVariants",
+      "version": "1.0.0",
+      "updated_at": 1787147500,
+      "counts": {
+        "creatures": 54,
+        "engrams": 8,
+        "items": 57
+      }
+    },
+    {
       "path": "mods/shinyascended.json",
       "mod_name": "ShinyAscended",
       "version": "1.0.2",
