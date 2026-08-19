@@ -2,16 +2,6 @@
   "manifest_version": 1,
   "files": [
     {
-      "path": "mods/immersivetaming.json",
-      "mod_name": "ImmersiveTaming",
-      "version": "2.0.0",
-      "updated_at": 1785880792,
-      "counts": {
-        "engrams": 1,
-        "items": 114
-      }
-    },
-    {
       "path": "mods/sdinovariants.json",
       "mod_name": "SDinoVariants",
       "version": "1.0.0",
@@ -20,17 +10,6 @@
         "creatures": 54,
         "engrams": 8,
         "items": 57
-      }
-    },
-    {
-      "path": "mods/shinyascended.json",
-      "mod_name": "ShinyAscended",
-      "version": "1.0.2",
-      "updated_at": 1786314211,
-      "counts": {
-        "buffs": 65,
-        "engrams": 5,
-        "items": 11
       }
     }
   ]
