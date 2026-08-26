@@ -4,12 +4,12 @@
     {
       "path": "mods/sdinovariants.json",
       "mod_name": "SDinoVariants",
-      "version": "1.0.0",
-      "updated_at": 1787147500,
+      "version": "1.0.1",
+      "updated_at": 1787730647,
       "counts": {
-        "creatures": 54,
-        "engrams": 8,
-        "items": 57
+        "creatures": 55,
+        "engrams": 9,
+        "items": 58
       }
     }
   ]
