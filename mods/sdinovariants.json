@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "last_updated": 1787147500,
+  "version": "1.0.1",
+  "last_updated": 1787730647,
   "mod_name": "SDinoVariants",
   "mod_link": "https://www.curseforge.com/ark-survival-ascended/mods/s-dino-variants",
   "creatures": {
@@ -327,6 +327,12 @@
       "name": "S-Yutyrannus",
       "entity_id": "S-Yutyrannus_Character_BP_C",
       "blueprint": "Blueprint'/SDinoVariants/S-Yutyrannus/S-Yutyrannus_Character_BP.S-Yutyrannus_Character_BP'"
+    },
+    "9ca806f6dba945609a465bcf02dff91b": {
+      "type_name": "creature",
+      "name": "S-Mammoth",
+      "entity_id": "S-Mammoth_Character_BP_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Mammoth/S-Mammoth_Character_BP.S-Mammoth_Character_BP'"
     }
   },
   "items": {
@@ -671,6 +677,12 @@
       "name": "Underwater Egg S-Helicoprion",
       "class_name": "PrimalItemConsumable_UnderwaterEgg_S-Helicoprion_C",
       "blueprint": "Blueprint'/SDinoVariants/S-Helicoprion/PrimalItemConsumable_UnderwaterEgg_S-Helicoprion.PrimalItemConsumable_UnderwaterEgg_S-Helicoprion'"
+    },
+    "8ca4f3c8e807408cb3fc7f6d07a12323": {
+      "type_name": "Saddles",
+      "name": "Mammoth Platform",
+      "class_name": "PrimalItemArmor_Mammoth_Platform_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Mammoth/PrimalItemArmor_Mammoth_Platform.PrimalItemArmor_Mammoth_Platform'"
     }
   },
   "engrams": {
@@ -721,6 +733,12 @@
       "name": "Saddle S-Direwolf",
       "class_name": "EngramEntry_Saddle_S-Direwolf_C",
       "blueprint": "Blueprint'/SDinoVariants/S-Direwolf/EngramEntry_Saddle_S-Direwolf.EngramEntry_Saddle_S-Direwolf'"
+    },
+    "a27a543f0de94f4b972013579ee6c54b": {
+      "type_name": "engram",
+      "name": "Saddle S-Mammoth",
+      "class_name": "EngramEntry_Saddle_S-Mammoth_C",
+      "blueprint": "Blueprint'/SDinoVariants/S-Mammoth/EngramEntry_Saddle_S-Mammoth.EngramEntry_Saddle_S-Mammoth'"
     }
   },
   "beacons": {},
