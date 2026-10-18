@@ -1,0 +1,502 @@
+{
+  "version": "1.0.0",
+  "last_updated": 1788168664,
+  "mod_name": "ShinyAscended",
+  "mod_link": "https://www.curseforge.com/ark-survival-ascended/mods/shiny-ascended",
+  "creatures": {},
+  "items": {
+    "634a714c31c4435fb7cac0a64a8afb56": {
+      "type_name": "Resources",
+      "name": "Raw Shiny Essence",
+      "class_name": "PrimalItemResource_RawShinyEssence_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/Essence/PrimalItemResource_RawShinyEssence.PrimalItemResource_RawShinyEssence'"
+    },
+    "a01bbf3c672048c6a5f9780b4fb46e16": {
+      "type_name": "Weapons",
+      "name": "Shiny Color Gun",
+      "class_name": "PrimalItemShinyColorGun_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/AdminGun/PrimalItemShinyColorGun.PrimalItemShinyColorGun'"
+    },
+    "f5e80e5b63304ac6a21a690f76a7179c": {
+      "type_name": "Resources",
+      "name": "Shiny Display Stone",
+      "class_name": "PrimalItemStructure_ShinyDisplay_Stone_C",
+      "blueprint": "Blueprint'/ShinyAscended/Structures/DisplayCase/Stone/PrimalItemStructure_ShinyDisplay_Stone.PrimalItemStructure_ShinyDisplay_Stone'"
+    },
+    "96fc9296b41f43a293dfc246d05a8ace": {
+      "type_name": "Resources",
+      "name": "Shiny Display Wood",
+      "class_name": "PrimalItemStructure_ShinyDisplay_Wood_C",
+      "blueprint": "Blueprint'/ShinyAscended/Structures/DisplayCase/Wood/PrimalItemStructure_ShinyDisplay_Wood.PrimalItemStructure_ShinyDisplay_Wood'"
+    },
+    "ebd914f63bd44a5abfc229ad3c0b7a5d": {
+      "type_name": "Resources",
+      "name": "Shiny Essence",
+      "class_name": "PrimalItemConsumable_ShinyEssence_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/Essence/PrimalItemConsumable_ShinyEssence.PrimalItemConsumable_ShinyEssence'"
+    },
+    "eefc3880ab174461b7e82ee5ba52728b": {
+      "type_name": "Tools",
+      "name": "Shiny Info Gun",
+      "class_name": "PrimalItemShinyInfoGun_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/AdminGun/PrimalItemShinyInfoGun.PrimalItemShinyInfoGun'"
+    },
+    "c3e9d3c61f4145d780b09b2cb68a9951": {
+      "type_name": "Weapons",
+      "name": "Shiny Spear Bolt",
+      "class_name": "PrimalItemAmmo_ShinySpearBolt_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/ShinyHarpoon/PrimalItemAmmo_ShinySpearBolt.PrimalItemAmmo_ShinySpearBolt'"
+    },
+    "b43589474ac240718e3b355f5cc41ca1": {
+      "type_name": "Consumables",
+      "name": "Shiny Spectral Poop",
+      "class_name": "PrimalItemConsumable_ShinySpectralPoop_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/SpectralPoop/PrimalItemConsumable_ShinySpectralPoop.PrimalItemConsumable_ShinySpectralPoop'"
+    },
+    "15070e1861b34c249837bf74aed1527e": {
+      "type_name": "Tools",
+      "name": "Shiny Tracker",
+      "class_name": "PrimalItem_ShinyTracker_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/Tracker/PrimalItem_ShinyTracker.PrimalItem_ShinyTracker'"
+    },
+    "31e543040acd4970b6e57020b6c9489c": {
+      "type_name": "Tools",
+      "name": "Shiny Variant Gun",
+      "class_name": "PrimalItemShinyVariantGun_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/AdminGun/PrimalItemShinyVariantGun.PrimalItemShinyVariantGun'"
+    },
+    "504c3638b20e465db5adccb536a6c754": {
+      "type_name": "Weapons",
+      "name": "Weapon Shiny Prod",
+      "class_name": "PrimalItem_WeaponShinyProd_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/ShinyProd/PrimalItem_WeaponShinyProd.PrimalItem_WeaponShinyProd'"
+    }
+  },
+  "engrams": {
+    "432d0cd25fc54bddad4dae5b3dfec843": {
+      "type_name": "engram",
+      "name": "Shiny Display Stone",
+      "class_name": "EngramEntry_ShinyDisplay_Stone_C",
+      "blueprint": "Blueprint'/ShinyAscended/Structures/DisplayCase/Stone/EngramEntry_ShinyDisplay_Stone.EngramEntry_ShinyDisplay_Stone'"
+    },
+    "3367a01e605f479fa5712e24daf3e271": {
+      "type_name": "engram",
+      "name": "Shiny Display Wood",
+      "class_name": "EngramEntry_ShinyDisplay_Wood_C",
+      "blueprint": "Blueprint'/ShinyAscended/Structures/DisplayCase/Wood/EngramEntry_ShinyDisplay_Wood.EngramEntry_ShinyDisplay_Wood'"
+    },
+    "699b7878fdf946239c296df07fca66ee": {
+      "type_name": "engram",
+      "name": "Shiny Prod",
+      "class_name": "EngramEntry_ShinyProd_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/ShinyProd/EngramEntry_ShinyProd.EngramEntry_ShinyProd'"
+    },
+    "70fbf36bea0a44449d3f635523d0c549": {
+      "type_name": "engram",
+      "name": "Shiny Spear Bolt",
+      "class_name": "EngramEntry_ShinySpearBolt_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/ShinyHarpoon/EngramEntry_ShinySpearBolt.EngramEntry_ShinySpearBolt'"
+    },
+    "f97d7ee3508a49edb0dedb000adc72f8": {
+      "type_name": "engram",
+      "name": "Shiny Tracker",
+      "class_name": "EngramEntry_ShinyTracker_C",
+      "blueprint": "Blueprint'/ShinyAscended/Items/Tracker/EngramEntry_ShinyTracker.EngramEntry_ShinyTracker'"
+    }
+  },
+  "beacons": {},
+  "icons": {},
+  "colors": {},
+  "buffs": {
+    "131cc5ce27a9464fbbda22106cecefc5": {
+      "type_name": "buff",
+      "name": "Buff Base Owner Only",
+      "class_name": "Buff_BaseOwnerOnly_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/Buff_BaseOwnerOnly.Buff_BaseOwnerOnly'"
+    },
+    "66217adf3cb24a64a4c85d1ad8c905d8": {
+      "type_name": "buff",
+      "name": "Buff Electrocuted Taser",
+      "class_name": "Buff_Electrocuted_Taser_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Damage/Buff_Electrocuted_Taser.Buff_Electrocuted_Taser'"
+    },
+    "26570c25ee774d8abcf84144356c5c5b": {
+      "type_name": "buff",
+      "name": "Buff Flashbang Dazzling Dino Pawn",
+      "class_name": "Buff_Flashbang_Dazzling_DinoPawn_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Damage/Buff_Flashbang_Dazzling_DinoPawn.Buff_Flashbang_Dazzling_DinoPawn'"
+    },
+    "47852e4f2baf486dab47d83b98f17895": {
+      "type_name": "buff",
+      "name": "Buff Flashbang Dazzling Player Pawn",
+      "class_name": "Buff_Flashbang_Dazzling_PlayerPawn_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Damage/Buff_Flashbang_Dazzling_PlayerPawn.Buff_Flashbang_Dazzling_PlayerPawn'"
+    },
+    "9808760c3af34c1b9899058cf5edc84d": {
+      "type_name": "buff",
+      "name": "Buff Radiation Shiny",
+      "class_name": "Buff_Radiation_Shiny_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Damage/Buff_Radiation_Shiny.Buff_Radiation_Shiny'"
+    },
+    "6ae40ad2a2374cc0a0d3689d3a99ef09": {
+      "type_name": "buff",
+      "name": "Buff Serene Crafting Bonus",
+      "class_name": "Buff_SereneCraftingBonus_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_SereneCraftingBonus.Buff_SereneCraftingBonus'"
+    },
+    "6764f9feb1eb416ea9008f24534f08a6": {
+      "type_name": "buff",
+      "name": "Buff Shiny Ability Cooldown",
+      "class_name": "Buff_ShinyAbilityCooldown_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/_Cooldown/Buff_ShinyAbilityCooldown.Buff_ShinyAbilityCooldown'"
+    },
+    "551603300c9541b68e6254c82b5472d4": {
+      "type_name": "buff",
+      "name": "Buff Shiny Ability Cooldown20",
+      "class_name": "Buff_ShinyAbilityCooldown20_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/_Cooldown/Buff_ShinyAbilityCooldown20.Buff_ShinyAbilityCooldown20'"
+    },
+    "670810e9aa4341f0b0250f2b0037762d": {
+      "type_name": "buff",
+      "name": "Buff Shiny Ability Cooldown20m",
+      "class_name": "Buff_ShinyAbilityCooldown20m_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/_Cooldown/Buff_ShinyAbilityCooldown20m.Buff_ShinyAbilityCooldown20m'"
+    },
+    "ea246191a5ce4cf18e26479fbfc330b5": {
+      "type_name": "buff",
+      "name": "Buff Shiny Ability Cooldown60",
+      "class_name": "Buff_ShinyAbilityCooldown60_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/_Cooldown/Buff_ShinyAbilityCooldown60.Buff_ShinyAbilityCooldown60'"
+    },
+    "bf3d019ab21e48ff8cca9384c29b9933": {
+      "type_name": "buff",
+      "name": "Buff Shiny Base",
+      "class_name": "Buff_ShinyBase_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/Buff_ShinyBase.Buff_ShinyBase'"
+    },
+    "837c31cb2f894c75944bd642964bf50e": {
+      "type_name": "buff",
+      "name": "Buff Shiny Dummy",
+      "class_name": "Buff_ShinyDummy_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/Buff_ShinyDummy.Buff_ShinyDummy'"
+    },
+    "f267907602bc429d82a10c25415130cf": {
+      "type_name": "buff",
+      "name": "Buff Shiny Halucination",
+      "class_name": "Buff_ShinyHalucination_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Damage/Buff_ShinyHalucination.Buff_ShinyHalucination'"
+    },
+    "19e4af77c26043dcae53c23f5b71f6db": {
+      "type_name": "buff",
+      "name": "Buff Shiny Holo Vision",
+      "class_name": "Buff_ShinyHoloVision_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/Buff_ShinyHoloVision.Buff_ShinyHoloVision'"
+    },
+    "5ede8b3b63bc4a299bf506700faf04f6": {
+      "type_name": "buff",
+      "name": "Buff Shiny Nightmare Debuff",
+      "class_name": "Buff_ShinyNightmareDebuff_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Effects/Buff_ShinyNightmareDebuff.Buff_ShinyNightmareDebuff'"
+    },
+    "da476d019dfa4f639c2bc6bb9280ae7e": {
+      "type_name": "buff",
+      "name": "Buff Shiny Nightmare Ink",
+      "class_name": "Buff_ShinyNightmareInk_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Effects/Buff_ShinyNightmareInk.Buff_ShinyNightmareInk'"
+    },
+    "9f3e75c33f3d4c8283c6e393cf3dbc3d": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Base",
+      "class_name": "Buff_ShinyPlayerBase_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/Buff_ShinyPlayerBase.Buff_ShinyPlayerBase'"
+    },
+    "e6b8adcb01434700b52b769a1b18c289": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Bolstering",
+      "class_name": "Buff_ShinyPlayerBolstering_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_ShinyPlayerBolstering.Buff_ShinyPlayerBolstering'"
+    },
+    "d847ae0645c343d2bd2bc38408de5946": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Fire Protection",
+      "class_name": "Buff_ShinyPlayerFireProtection_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/Buff_ShinyPlayerFireProtection.Buff_ShinyPlayerFireProtection'"
+    },
+    "ff56eab153c34038a8a3d8ac37824fd7": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Hydrating",
+      "class_name": "Buff_ShinyPlayerHydrating_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_ShinyPlayerHydrating.Buff_ShinyPlayerHydrating'"
+    },
+    "8d9db3d2fff84c238e9ee479cca9181f": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Input",
+      "class_name": "Buff_ShinyPlayerInput_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/Buff_ShinyPlayerInput.Buff_ShinyPlayerInput'"
+    },
+    "932325b7698745099955bf321af3c4b2": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Invigorating",
+      "class_name": "Buff_ShinyPlayerInvigorating_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_ShinyPlayerInvigorating.Buff_ShinyPlayerInvigorating'"
+    },
+    "de58a599606d479f859680df652543ad": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Obscured",
+      "class_name": "Buff_ShinyPlayerObscured_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_ShinyPlayerObscured.Buff_ShinyPlayerObscured'"
+    },
+    "1595b1f7ae3a49d5a3f6c211e06c3235": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Pyrethrous",
+      "class_name": "Buff_ShinyPlayerPyrethrous_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_ShinyPlayerPyrethrous.Buff_ShinyPlayerPyrethrous'"
+    },
+    "b805d01a7cd148a28f2bd991034e0d74": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Radiation Protection",
+      "class_name": "Buff_ShinyPlayerRadiationProtection_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/Buff_ShinyPlayerRadiationProtection.Buff_ShinyPlayerRadiationProtection'"
+    },
+    "b9ddd807747c4d108a985d8d622661c1": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Revitalizing",
+      "class_name": "Buff_ShinyPlayerRevitalizing_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_ShinyPlayerRevitalizing.Buff_ShinyPlayerRevitalizing'"
+    },
+    "6c6ae0d1727249478a62d64a03c79907": {
+      "type_name": "buff",
+      "name": "Buff Shiny Player Serene",
+      "class_name": "Buff_ShinyPlayerSerene_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/ShoulderPets/Buff_ShinyPlayerSerene.Buff_ShinyPlayerSerene'"
+    },
+    "77578a52139a4a3fafec0baee48f3cc9": {
+      "type_name": "buff",
+      "name": "Buff Shiny Psychotropic Handler",
+      "class_name": "Buff_ShinyPsychotropicHandler_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Player/Buff_ShinyPsychotropicHandler.Buff_ShinyPsychotropicHandler'"
+    },
+    "541c384a182d4fc1b16c8f340d491807": {
+      "type_name": "buff",
+      "name": "Buff Shiny Radiation Mutation",
+      "class_name": "Buff_ShinyRadiationMutation_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Effects/Buff_ShinyRadiationMutation.Buff_ShinyRadiationMutation'"
+    },
+    "613fe42f1f714c049d426a0230608b3a": {
+      "type_name": "buff",
+      "name": "Buff Shiny Recovery",
+      "class_name": "Buff_ShinyRecovery_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Buff_ShinyRecovery.Buff_ShinyRecovery'"
+    },
+    "5aa22c65a0a54f0b925b3525651622e5": {
+      "type_name": "buff",
+      "name": "Buff Shiny Tamed Particles",
+      "class_name": "Buff_ShinyTamedParticles_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Buff_ShinyTamedParticles.Buff_ShinyTamedParticles'"
+    },
+    "ddee9a2788d447e69be95eac198e632c": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Base",
+      "class_name": "Buff_ShinyVariantBase_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/Buff_ShinyVariantBase.Buff_ShinyVariantBase'"
+    },
+    "cd732de3cb5b407f8f28218d7d8be086": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Base Inventory",
+      "class_name": "Buff_ShinyVariantBaseInventory_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/Buff_ShinyVariantBaseInventory.Buff_ShinyVariantBaseInventory'"
+    },
+    "5c1a53355e204d5e8ed87032cbe36133": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Base Resize",
+      "class_name": "Buff_ShinyVariantBaseResize_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/_Base/Buff_ShinyVariantBaseResize.Buff_ShinyVariantBaseResize'"
+    },
+    "3b62576fbc0a44c490723133b4c54d75": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Bolstering",
+      "class_name": "Buff_ShinyVariantBolstering_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/ShoulderPets/Buff_ShinyVariantBolstering.Buff_ShinyVariantBolstering'"
+    },
+    "862c7344702b47eab8b469e4d201367d": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Burning",
+      "class_name": "Buff_ShinyVariantBurning_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantBurning.Buff_ShinyVariantBurning'"
+    },
+    "8485b1ead9a64ba89e614c3892ab92d3": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Cleansed",
+      "class_name": "Buff_ShinyVariantCleansed_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantCleansed.Buff_ShinyVariantCleansed'"
+    },
+    "4989c071262044b68fcb31e617aaa94c": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Colossal",
+      "class_name": "Buff_ShinyVariantColossal_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantColossal.Buff_ShinyVariantColossal'"
+    },
+    "7dcfd44dd9144ee98e92120a49d46e82": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Crystalline",
+      "class_name": "Buff_ShinyVariantCrystalline_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantCrystalline.Buff_ShinyVariantCrystalline'"
+    },
+    "1471e7d3e2ce428f85bf3a6927405743": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Dazzling",
+      "class_name": "Buff_ShinyVariantDazzling_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantDazzling.Buff_ShinyVariantDazzling'"
+    },
+    "29cbc05872d7421e9fd32e2cccf0d35c": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Endurant",
+      "class_name": "Buff_ShinyVariantEndurant_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantEndurant.Buff_ShinyVariantEndurant'"
+    },
+    "435e6aa932864606828aa2627be0ac5c": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Enraged",
+      "class_name": "Buff_ShinyVariantEnraged_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantEnraged.Buff_ShinyVariantEnraged'"
+    },
+    "3f8765af75d24ec884a6909467ffd86a": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Fathomless",
+      "class_name": "Buff_ShinyVariantFathomless_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantFathomless.Buff_ShinyVariantFathomless'"
+    },
+    "293886d8b8184761bb06d77e042a27c8": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Filthy",
+      "class_name": "Buff_ShinyVariantFilthy_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantFilthy.Buff_ShinyVariantFilthy'"
+    },
+    "7ec56304e711464aa945393e3cba7da3": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Frozen",
+      "class_name": "Buff_ShinyVariantFrozen_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantFrozen.Buff_ShinyVariantFrozen'"
+    },
+    "a7ed0274e55143eeadb5ce2e626ebc85": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Holographic",
+      "class_name": "Buff_ShinyVariantHolographic_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantHolographic.Buff_ShinyVariantHolographic'"
+    },
+    "98cc62b1d72d4d1db7b192cbf1df8c06": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Hydrating",
+      "class_name": "Buff_ShinyVariantHydrating_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/ShoulderPets/Buff_ShinyVariantHydrating.Buff_ShinyVariantHydrating'"
+    },
+    "56d3c6df414d4b01a346318bb89d5967": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Invigorating",
+      "class_name": "Buff_ShinyVariantInvigorating_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/ShoulderPets/Buff_ShinyVariantInvigorating.Buff_ShinyVariantInvigorating'"
+    },
+    "d4743aa8b6704aa2941a73ad99c93b37": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Lunar",
+      "class_name": "Buff_ShinyVariantLunar_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantLunar.Buff_ShinyVariantLunar'"
+    },
+    "bc79f2b5148d4f2ba575c55706d11ce0": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Nightmare",
+      "class_name": "Buff_ShinyVariantNightmare_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantNightmare.Buff_ShinyVariantNightmare'"
+    },
+    "c6ee333506dd4cbb9d221d558ab4e077": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Obscure",
+      "class_name": "Buff_ShinyVariantObscure_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/ShoulderPets/Buff_ShinyVariantObscure.Buff_ShinyVariantObscure'"
+    },
+    "640e5565e94a4ee498b47971ae01ff64": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Psychotropic",
+      "class_name": "Buff_ShinyVariantPsychotropic_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantPsychotropic.Buff_ShinyVariantPsychotropic'"
+    },
+    "cdbc9b31380e4f31afe21dc8708c0771": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Pygmy",
+      "class_name": "Buff_ShinyVariantPygmy_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantPygmy.Buff_ShinyVariantPygmy'"
+    },
+    "72f8b95a91c44bae9e5cace1000144e8": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Pyrethrous",
+      "class_name": "Buff_ShinyVariantPyrethrous_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/ShoulderPets/Buff_ShinyVariantPyrethrous.Buff_ShinyVariantPyrethrous'"
+    },
+    "f33fd16c6e234f2995aae2a3a73beea4": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Radioactive",
+      "class_name": "Buff_ShinyVariantRadioactive_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantRadioactive.Buff_ShinyVariantRadioactive'"
+    },
+    "81f77a8c085b4dd8aa2ca4b89b39b37c": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Revitalizing",
+      "class_name": "Buff_ShinyVariantRevitalizing_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/ShoulderPets/Buff_ShinyVariantRevitalizing.Buff_ShinyVariantRevitalizing'"
+    },
+    "a7d1ead2a0b347fdb7d02985a5a5966b": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Rubber",
+      "class_name": "Buff_ShinyVariantRubber_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantRubber.Buff_ShinyVariantRubber'"
+    },
+    "330156fe3b12407a91acc91e9bba03fd": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Serene",
+      "class_name": "Buff_ShinyVariantSerene_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/ShoulderPets/Buff_ShinyVariantSerene.Buff_ShinyVariantSerene'"
+    },
+    "dd0e87d7cf76460a8bc0f9439b5bdad9": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Shinobi",
+      "class_name": "Buff_ShinyVariantShinobi_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantShinobi.Buff_ShinyVariantShinobi'"
+    },
+    "fe81e00c43724566941ed5a64a7b962d": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Skeletal",
+      "class_name": "Buff_ShinyVariantSkeletal_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantSkeletal.Buff_ShinyVariantSkeletal'"
+    },
+    "505f05918c864adf8f6dc2628c3745f4": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Spectral",
+      "class_name": "Buff_ShinyVariantSpectral_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantSpectral.Buff_ShinyVariantSpectral'"
+    },
+    "05470e28dc2048d4b52ee7ad5fbd1850": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Taser",
+      "class_name": "Buff_ShinyVariantTaser_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Buff_ShinyVariantTaser.Buff_ShinyVariantTaser'"
+    },
+    "2da7217bc5764a75a09d8e093acbedf0": {
+      "type_name": "buff",
+      "name": "Buff Shiny Variant Trick Or Treat",
+      "class_name": "Buff_ShinyVariantTrickOrTreat_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Variants/Events/Buff_ShinyVariantTrickOrTreat.Buff_ShinyVariantTrickOrTreat'"
+    },
+    "401dcfd813a0409e8c3de7b9312e5a11": {
+      "type_name": "buff",
+      "name": "Buff Shiny Wild Dino",
+      "class_name": "Buff_ShinyWildDino_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Buff_ShinyWildDino.Buff_ShinyWildDino'"
+    },
+    "eb827b691e3e491b8fcabb76144ecd68": {
+      "type_name": "buff",
+      "name": "Buff Shiny Wild Dino No Resistance",
+      "class_name": "Buff_ShinyWildDino_NoResistance_C",
+      "blueprint": "Blueprint'/ShinyAscended/Buffs/Buff_ShinyWildDino_NoResistance.Buff_ShinyWildDino_NoResistance'"
+    }
+  }
+}
